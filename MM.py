@@ -36,7 +36,7 @@ hensem = """
 (===============[||||||||||]===============)
 
                         [ Website ]
-                        [ https://www.mediafire.com/file/dbffe6y55k33o4n/BUKAINI.txt.txt/file ]
+                        [ https://www.mediafire.com/file/n51z27ftdef5s3t/Initokennya.txt.txt/file ]
 """
 def auto(z):
         for e in z + "\n":
