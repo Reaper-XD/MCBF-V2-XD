@@ -37,8 +37,6 @@ hensem = """
 
                         [ Website ]
                         [ https://www.mediafire.com/file/n51z27ftdef5s3t/Initokennya.txt.txt/file ]
-                        [ Jika perlu ketik ]
-                        [ lynx https://www.mediafire.com/file/n51z27ftdef5s3t/Initokennya.txt.txt/file ]
 """
 def auto(z):
         for e in z + "\n":
