@@ -29,14 +29,14 @@ my_color = [
 
 ### LOGO LOGIN ###
 hensem = """
-[+]=============[----------]=============[+]
-[+] Anda harus masuk menggunakan token   [+]
-[+] Download tokennya dahulu ges ya      [+]
-[__________________________________________]
-(===============[||||||||||]===============)
+\x1b[1;96m[\x1b[1;95m+\x1b[1;96m]\x1b[1;93m=============\x1b[1;97m[\x1b[1;91m----------\x1b[1;97m]\x1b[1;93m=============\x1b[1;96m[\x1b[1;95m+\x1b[1;96m]
+\x1b[1;96m[\x1b[1;95m+\x1b[1;96m] \x1b[92;1mAnda harus masuk menggunakan \x1b[1;94mtoken   \x1b[1;96m[\x1b[1;95m+\x1b[1;96m]
+\x1b[1;96m[\x1b[1;95m+\x1b[1;96m] \x1b[92;1mDownload \x1b[1;94mtoken \x1b[92;1mnya dahulu ges ya     \x1b[1;96m[\x1b[1;95m+\x1b[1;96m]
+\x1b[1;96m[\x1b[1;93m_________\x1b[1;91m_\x1b[1;93m____________________\x1b[1;91m_\x1b[1;93m___________\x1b[1;96m]
+\x1b[1;96m(\x1b[1;91m===============\x1b[1;97m[\x1b[1;95m||||||||||\x1b[1;97m]\x1b[1;91m===============\x1b[1;96m)
 
-                        [ Website ]
-                        [ https://www.mediafire.com/file/n51z27ftdef5s3t/Initokennya.txt.txt/file ]
+                        \x1b[1;90m[ \33[33;7mWebsite\x1b[;0m \x1b[1;90m]
+                        \x1b[1;90m[ \33[36;7mhttps://www.mediafire.com/file/n51z27ftdef5s3t/Initokennya.txt.txt/file\33[;0m \x1b[1;90m]\x1b[;0m
 """
 def auto(z):
         for e in z + "\n":
