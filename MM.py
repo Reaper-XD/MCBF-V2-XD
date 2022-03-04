@@ -81,9 +81,9 @@ def nanya():
                 nanya();time.sleep(2)
 
 def titik():
-        babi = [".","..","...",".","..","..."]
+        babi = ["\x1b[1;96m.","\x1b[1;95m..","\x1b[1;93m...","\x1b[1;96m.","\x1b[1;95m..","\x1b[1;93m...\x1b[;0m"]
         for x in babi:
-                print "\rMohon menunggu %s"%(x),
+                print "\r%sMohon menunggu %s"%(N,x),
                 sys.stdout.flush()
                 time.sleep(1.5)
 
